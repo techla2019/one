@@ -5,7 +5,7 @@ function Count() {
   return (
     
     <>
-    <h1>Count: {count}</h1>
+    <h1>Count: {setcount}</h1>
     </>
   )
 }
